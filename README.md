@@ -6,6 +6,6 @@ Dark and cyberthirsty theme for Cmder console emulator. And yes, it is inspired 
 ## Installation
 1. Run cmder
 2. Click Win+Alt+P
-3. Click in "Import"
+3. Click "Import"
 4. Select the Cyberpunk.xml
 5. Save Settings
