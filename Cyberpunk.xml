@@ -170,8 +170,6 @@
 			<value name="ComSpec.Path" type="string" data=""/>
 			<value name="EnvironmentSet" type="multi">
 				<line data="set PATH=%ConEmuBaseDir%\Scripts;%PATH%"/>
-				<line data="set LC_ALL=ru_RU.UTF-8"/>
-				<line data="set LANG=ru_RU.UTF-8"/>
 			</value>
 			<value name="CTS.Intelligent" type="hex" data="01"/>
 			<value name="CTS.IntelligentExceptions" type="string" data="far|vim.exe"/>
